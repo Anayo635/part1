@@ -1,0 +1,92 @@
+/* General Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4fff4;
+    color: #333;
+  }
+  
+  header {
+    background: #2e7d32;
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header nav a {
+    color: rgb(255, 255, 255);
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  .hero {
+    background: url('../images/hero.jpg') center/cover no-repeat;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 5rem 1rem;
+  }
+  
+  button {
+    background: #66bb6a;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background: #388e3c;
+  }
+  
+  .grid {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    padding: 2rem;
+  }
+  
+  .grid div {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .grid img {
+    width: 100px;
+    height: auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  
+  form input, form textarea {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+  }
+  
+  footer {
+    background: #2e7d32;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
