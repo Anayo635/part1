@@ -75,10 +75,9 @@ Week 5: Add JavaScript functionality for interactivity (e.g., forms, navigation 
 Week 6: Final testing, debugging, and deployment.
 
 SITEMAP
-┌─────────────────────────────────────────────────────────────────────────┐
-│                           ECOHARVEST FRESH                              │
-│                             Website Sitemap                             │
-└─────────────────────────────────────────────────────────────────────────┘
+
+
+
 
                                ┌─────────────┐
                                │    HOME     │
@@ -145,17 +144,12 @@ SITEMAP
                                                       └───────────────┘
 
 
-LEGEND:
-┌─────────┐ = Main Page
-└─────────┘
-[Content]  = Page section/content
-   │       = Connection/relationship
-   ┴       = Branching
 
-CHANGELOG
+
+CHANGELOG:
 this company does not have a website
 
-REFERENCES 
+REFERENCES: 
 EcoHarvest (2023) About EcoHarvest - Fresh Farm Products. [online] Available at www.gurateul.com  (Accessed: 24 August 2025). 
 
 ESMC (2022) Eco-Harvest – ESMC. Environmental Sustainability Monitoring Council. [online] Available at www.ecosystemservicesmarket.org  (Accessed: 24 August 2025). 
